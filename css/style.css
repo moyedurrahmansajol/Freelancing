@@ -1,34 +1,34 @@
 body{
-		 	margin: 0;
-		 }
-		 	header{
-		 		
-		 		
-		 	}
+            margin: 0;
+         }
+            header{
+                
+                
+            }
 
-		 	.announcment{
-		 		background-color:#f15c22;
-		 		padding: 15px 30px;
+            .announcment{
+                background-color:#f15c22;
+                padding: 15px 30px;
 
-		 	}
+            }
 
-		 	.announcment p{
-		 		color: white;
+            .announcment p{
+                color: white;
                 font-size: 23px;
                 text-transform: capitalize;
                 letter-spacing: 2px;
                 text-align: center;
-	 	 	}	
-		 	
-		 	.menu{
-		 		border-bottom: solid #f15c22 1px;
-		 	}
-		 	ol{
+            }   
+            
+            .menu{
+                border-bottom: solid #f15c22 1px;
+            }
+            ol{
     margin: 0;
     text-align: center;
     padding: 16px 20px;
 }
-		 	ol li{
+            ol li{
     display: inline-block;
 }
  ol li a{
@@ -54,8 +54,8 @@ body{
 
 
 .banner-section{
-	    padding: 50px 0;
-	  background-color:#e860171f ;
+        padding: 50px 0;
+      background-color:#e860171f ;
 
 }
 .banner{
@@ -64,9 +64,9 @@ body{
   margin-right: auto;
 }
 .banner img{
-	max-width: 100%;
-	border-radius: 15px;
-	width: 100%;
+    max-width: 100%;
+    border-radius: 15px;
+    width: 100%;
     transition: all 0.3s cubic-bezier(0.94, 0.59, 0, 1.1);;
 }
 .banner img:hover{
@@ -82,7 +82,7 @@ body{
 }
 
 .content h1{
-	   font-size: 64px;
+       font-size: 64px;
     margin: 57px 3px;
     color: #e6580cde;
 } 
@@ -91,7 +91,7 @@ body{
 }
 
 ul li{
-	    font-size: 30px;
+        font-size: 30px;
     list-style-type: disclosure-closed;
     color: #0c1d17f2;
     padding: 11px 10px;
@@ -116,7 +116,7 @@ section.photo-section {
 }
 
 .photo img:hover{
-	box-shadow: 0 0 60px 0 #21202080;
+    box-shadow: 0 0 60px 0 #21202080;
 }
 
 
@@ -139,7 +139,7 @@ section.cover-section {
 }
 
 .cover img:hover{
-	box-shadow: 0 0 60px 0 #21202080;
+    box-shadow: 0 0 60px 0 #21202080;
 }
 
 section.doller-section {
@@ -161,7 +161,7 @@ section.doller-section {
 }
 
 .doller img:hover{
-	box-shadow: 0 0 60px 0 #21202080;
+    box-shadow: 0 0 60px 0 #21202080;
 }
 
 section.fiverr-section {
@@ -187,7 +187,7 @@ section.fiverr-section {
 }
 
 span{
-	color: blue;
+    color: blue;
 
 }
 
@@ -198,14 +198,14 @@ span{
 }
 
 img {
-    max-width: 1240px;
+    max-width: 1349px;
     border-radius: 15px;
-    width: 130%;
+    width: 100%;
 }
 
 section.upwork-section {
-    background-color: #b200ff0a;;
-    padding: 32px 0;
+    background-color: #f15c220a;
+    padding: 18px 10px;
 }
 .upwork img:hover{
     box-shadow: 0 0 60px 0 #21202080;
